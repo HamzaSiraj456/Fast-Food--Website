@@ -1,22 +1,10 @@
 .logo{
     height: 80px;
     width: 80px;
+    border-radius: 50%;
 }
 
-h1{
-   text-align: center;
-   border: 1px solid black;
-   height: fit-content;
 
-}
-h1:hover{
-    animation-duration: 5s;
-    cursor: pointer;
-    color: skyblue;
-    background-color: dimgrey;
-    font-style: oblique;
-
-}
 .button{
     margin: 5px;
 }
